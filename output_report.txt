@@ -1,0 +1,6 @@
+--- SYSTEM QUOTA REPORT ---
+User: admin      | Usage: 1024 MB | Status: OVER LIMIT
+User: j_smith    | Usage: 450 MB | Status: OK
+User: t_doe      | Usage: 890 MB | Status: OVER LIMIT
+User: guest_user | Usage: 120 MB | Status: OK
+User: dev_team   | Usage: 2048 MB | Status: OVER LIMIT

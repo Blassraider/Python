@@ -1,0 +1,5 @@
+base = float(input("Enter the base: "))
+height = float(input("Enter the height: "))
+half = float(input("Enter half of one: "))
+area = half * (base * height)
+print("The area is", area, "square units.")

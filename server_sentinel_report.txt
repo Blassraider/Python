@@ -1,0 +1,5 @@
+SERVER ACTIVITY SUMMARY
+========================
+User: admin | Actions: 3
+User: jdoe | Actions: 2
+User: m_smith | Actions: 1

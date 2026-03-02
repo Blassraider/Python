@@ -1,0 +1,5 @@
+admin:1024
+j_smith:450
+t_doe:890
+guest_user:120
+dev_team:2048

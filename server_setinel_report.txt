@@ -1,0 +1,6 @@
+08:00,admin,login,success
+08:05,jdoe,login,success
+08:10,admin,update_firewall,failed
+09:00,m_smith,login,success
+09:15,jdoe,logout,success
+10:00,admin,update_firewall,success
